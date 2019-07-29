@@ -1,2 +1,2 @@
 # picsou
-The general API for AIUS. Using Strapi
+The general API for AIUS. Using [Strapi](https://strapi.io/)
